@@ -1,0 +1,2 @@
+include ':app', ':blelibrary'
+rootProject.name='BLEPLUGIN'
