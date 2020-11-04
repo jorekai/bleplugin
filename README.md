@@ -1,3 +1,4 @@
-# bleplugin
-Das plugin fuer unity kann mit dem gradle file von blelibrary kompiliert werden und wenn man die Ansicht in Studio auf Project anstatt android 
-Wechselt, dann findet man das aar file unter build/outputs/aar
+# BLE-Plugin for Unity
+1. Compile the gradle file
+2. Get the AAR File under *build/outputs/aar*
+3. Integrate the Scripts in Unity and apply them to any Object
